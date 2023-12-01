@@ -9,6 +9,4 @@
 
 This tool is ment to help restaurants acquire a deep insight into the relationship with their audience, to understand the prevelance/extremity of certain complements and criticisms, along with quick pointers on how to fix the restaurant's most pressing issues/capture it's most successful trait.
 
-#### Examples:
-
-DO EXAMPLES HERE
+<!-- EXAMPLES HERE LATER --->
